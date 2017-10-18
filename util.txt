@@ -1,2 +1,3 @@
+cd ~/opt/mongo/bin/
 ./mongod --dbpath ~/opt/mongo-data
 
