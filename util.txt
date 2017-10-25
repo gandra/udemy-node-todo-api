@@ -1,3 +1,5 @@
 cd ~/opt/mongo/bin/
 ./mongod --dbpath ~/opt/mongo-data
 
+heroku addons:create mongolab:sandbox
+
