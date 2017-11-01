@@ -5,3 +5,7 @@ cd ~/opt/mongo/bin/
 
 heroku addons:create mongolab:sandbox
 
+=========================================
+
+jest expect
+
